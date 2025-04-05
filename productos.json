@@ -13,7 +13,7 @@
     "detalles": "MEDIDAS: Alto 110cm/Largo 75cm/Ancho 35cm.",
     "extras": "INCLUYE: Utensillos para colgar (Espátula, cucharon, tenedor), olla, sartén, plato, cubiertos, electrodoméstico.",
     "precio": 105000,
-    "imagen": "/assets/cocinaNordica.png"
+    "imagen": "./assets/cocinaNordica.png"
   },
   {
     "id": "3",
