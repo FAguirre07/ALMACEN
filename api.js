@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     <span>Precio: $${producto.precio.toLocaleString()}</span>
                     </div>
                 <div class="flex justify-end w-full"> 
-                <button class="text-[15px] tracking-[3px]
+                <button class="text-[1px] tracking-[3px]
             uppercase text-white transition-all px-8
             bg-[#4E392B]/80"> Agregar al carrito. </button>
             </div>

@@ -77,6 +77,7 @@
   {
     "id": "11",
     "nombre": "Set Cocina",
+    "extras": "INCLUYE: Cubiertos y tapas.",
     "precio": 11200,
     "imagen": "./assets/setCocina.png"
   },
@@ -90,6 +91,7 @@
   {
     "id": "13",
     "nombre": "Set de Desayuno",
+    "extras": "INCLUYE: Cubiertos, taza y juguera.",
     "precio": 13900,
     "imagen": "./assets/setDesayuno.png"
   },
